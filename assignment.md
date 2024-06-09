@@ -25,7 +25,17 @@ Scenario 2:
 Write ten (10) user stories for a book-borrowing website for a library. Write it in the format: `As a ____, I want to ____, so that _____`.
 
 ```
-Your answers here
+1.	As a library member, I want to search for books by title or author, so that I can quickly find the books I want to borrow.
+2.	As a library member, I want to reserve a book online, so that I can pick it up later without worrying about it being checked out by someone else.
+3.	As a library member, I want to view my borrowing history, so that I can keep track of the books I have read.
+4.	As a library member, I want to receive notifications when my reserved books are ready for pickup, so that I can collect them promptly.
+5.	As a library member, I want to renew my borrowed books online, so that I can extend the borrowing period without visiting the library.
+6.	As a library member, I want to see the due dates of my borrowed books, so that I can return them on time and avoid late fees.
+7.	As a library administrator, I want to add new books to the online catalog, so that members can see the latest additions.
+8.	As a library administrator, I want to manage user accounts, so that I can update membership details and monitor borrowing activities.
+9.	As a library member, I want to read reviews and ratings of books, so that I can choose books based on other members’ recommendations.
+10.	As a library member, I want to receive personalized book recommendations, so that I can discover new books that match my interests.
+
 ```
 
 
