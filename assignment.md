@@ -8,7 +8,17 @@ Scenario 1:
 Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
 ```
-Your answer here
+Implementing Scrum can enhance the productivity by providing a structured yet flexible framework for managing and executing tasks. Scrum focuses on iterative development, where work is divided into small, manageable segments called sprints, typically lasting two to four weeks. This allows the team to concentrate on a limited set of tasks, ensuring that they can deliver functional increments of the IT infrastructure regularly.
+1.	Clear Prioritization and Focus: With the Product Owner managing the backlog, tasks are prioritized based on importance and value to the school. This ensures that the most critical components of the IT infrastructure are addressed first, aligning efforts with the school's immediate needs and goals.
+
+2.	Increased Transparency and Accountability: Daily Scrum meetings promote transparency, where team members discuss their progress, plans for the day, and any obstacles they face. This constant communication fosters a sense of accountability and enables the team to identify and address issues promptly, preventing minor problems from escalating.
+
+3.	Flexibility and Adaptability: Scrum’s iterative approach allows the IT team to remain flexible and adapt to changing requirements. At the end of each sprint, during the Sprint Review, the team can gather feedback from stakeholders and make necessary adjustments to the project plan. This ensures that the evolving needs of the school are met effectively.
+
+4.	Continuous Improvement: The Sprint Retrospective at the end of each sprint encourages the team to reflect on their performance and identify areas for improvement. By regularly evaluating their processes and practices, the team can implement changes that enhance efficiency and productivity over time.
+
+5.	Collaboration and Empowerment: Scrum promotes a collaborative environment where team members are encouraged to contribute ideas and solutions. This collective approach not only leverages diverse skills and perspectives but also empowers the team, leading to higher morale and productivity.
+
 ```
 
 Scenario 2:
